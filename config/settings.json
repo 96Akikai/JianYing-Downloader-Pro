@@ -1,0 +1,61 @@
+{
+  "cookies": {
+    "_uetsid": "请替换为您的_uetsid",
+    "_uetvid": "请替换为您的_uetvid",
+    "d_ticket": "请替换为您的d_ticket",
+    "is_staff_user": "false",
+    "n_mh": "请替换为您的n_mh",
+    "odin_tt": "请替换为您的odin_tt",
+    "passport_csrf_token": "请替换为您的passport_csrf_token",
+    "passport_csrf_token_default": "请替换为您的passport_csrf_token_default",
+    "sessionid": "请替换为您的sessionid",
+    "sessionid_ss": "请替换为您的sessionid_ss",
+    "sid_guard": "请替换为您的sid_guard",
+    "sid_tt": "请替换为您的sid_tt",
+    "sid_ucp_v1": "请替换为您的sid_ucp_v1",
+    "ssid_ucp_v1": "请替换为您的ssid_ucp_v1",
+    "store-region": "cn-hb",
+    "store-region-src": "uid",
+    "ttwid": "请替换为您的ttwid",
+    "uid_tt": "请替换为您的uid_tt",
+    "uid_tt_ss": "请替换为您的uid_tt_ss",
+    "_tea_web_id": "请替换为您的_tea_web_id",
+    "s_v_web_id": "请替换为您的s_v_web_id"
+  },
+  "search": {
+    "keywords": [
+      "秋天风景",
+      "自然风光",
+      "城市夜景",
+      "海边日落",
+      "山水风景"
+    ],
+    "max_pages": 5,
+    "count_per_page": 50,
+    "min_duration": 3,
+    "max_duration": 300
+  },
+  "download": {
+    "download_dir": "downloads",
+    "preferred_resolution": "720p",
+    "resolution_priority": ["1080p", "720p", "480p", "360p"],
+    "max_workers": 3,
+    "max_retries": 3,
+    "retry_delay": 2,
+    "request_timeout": 30,
+    "download_timeout": 300,
+    "download_covers": true,
+    "save_metadata": true
+  },
+  "api": {
+    "search_url": "https://lv-web-lf.capcut.com/ies/resource/web/v1/effect/search",
+    "request_interval": 1,
+    "keyword_interval": 2
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    "file_enabled": true,
+    "console_enabled": true
+  }
+}
