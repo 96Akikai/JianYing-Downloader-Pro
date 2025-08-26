@@ -85,7 +85,7 @@ pip install -r requirements.txt
 #### 步骤A：获取Cookie信息
 
 1. **打开剪映网页版**
-   - 访问 [https://www.jianying.com](https://www.jianying.com)
+   - 访问 (https://www.jianying.com/ai-creator/storyboard/22781143298?workspaceId=7373574164885749814&spaceId=7350593388275564836&draftId=DE64EF91-88B4-4A0B-A960-B6E09A557641)
    - 登录您的账号
 
 2. **打开开发者工具**
