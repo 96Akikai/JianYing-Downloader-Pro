@@ -84,8 +84,8 @@ pip install -r requirements.txt
 
 #### 步骤A：获取Cookie信息
 
-1. **打开剪映网页版**
-   - 访问 (https://www.jianying.com/ai-creator/storyboard/22781143298?workspaceId=7373574164885749814&spaceId=7350593388275564836&draftId=DE64EF91-88B4-4A0B-A960-B6E09A557641)
+1. **打开剪映AI成片网页版**
+   - 访问 (https://www.jianying.com/ai-creator/start)
    - 登录您的账号
 
 2. **打开开发者工具**
@@ -93,7 +93,7 @@ pip install -r requirements.txt
    - 切换到 `Network` (网络) 标签
 
 3. **执行搜索操作**
-   - 在剪映网站上搜索任意关键词（如"风景"）
+   - 在剪映网站上点击开始创作后找到素材库搜索素材，搜索任意关键词（如"风景"）
    - 在Network标签中找到名为 `search` 的请求
 
 4. **复制Cookie信息**
